@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Criptografia">
+</Property><Property Name="Solution File" Value="D:\E\Project\Visual Basic\Templates\Criptografia\Criptografia.sln">
+</Property><Property Name="User Options File" Value="D:\E\Project\Visual Basic\Templates\Criptografia\Criptografia.suo">
+</Property><Property Name="Date" Value="sexta-feira, 24 de maio de 2013">
+</Property><Property Name="Time" Value="08:05">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Criptografia.sln" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\Criptografia\Backup\Criptografia.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Criptografia.suo" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\Criptografia\Backup\Criptografia.suo">
+</Event><Event ErrorLevel="0" Project="Criptografia" Source="Criptografia.vbproj" Description="Project file successfully backed up as D:\E\Project\Visual Basic\Templates\Criptografia\Backup\Criptografia.vbproj">
+</Event><Event ErrorLevel="0" Project="Criptografia" Source="Criptografia.vbproj.user" Description="Project user file successfully backed up as D:\E\Project\Visual Basic\Templates\Criptografia\Backup\Criptografia.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Criptografia" Source="Class1.vb" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\Criptografia\Backup\Class1.vb">
+</Event><Event ErrorLevel="0" Project="Criptografia" Source="Form1.vb" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\Criptografia\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Criptografia" Source="Form1.Designer.vb" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\Criptografia\Backup\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Criptografia" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\Criptografia\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Criptografia" Source="My Project\Application.Designer.vb" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\Criptografia\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Criptografia" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\Criptografia\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Criptografia" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\Criptografia\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Criptografia" Source="My Project\Application.myapp" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\Criptografia\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Criptografia" Source="My Project\Settings.settings" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\Criptografia\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Criptografia" Source="Form1.resx" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\Criptografia\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Criptografia" Source="My Project\Resources.resx" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\Criptografia\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Criptografia" Source="Criptografia.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Criptografia" Source="Criptografia.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Criptografia.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Criptografia.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Criptografia" Source="Criptografia.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

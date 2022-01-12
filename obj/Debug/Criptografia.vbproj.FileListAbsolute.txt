@@ -1,0 +1,24 @@
+D:\E\Project\Visual Basic\Templates\Criptografia\bin\Debug\Criptografia.exe
+D:\E\Project\Visual Basic\Templates\Criptografia\bin\Debug\Criptografia.pdb
+D:\E\Project\Visual Basic\Templates\Criptografia\bin\Debug\Criptografia.xml
+D:\E\Project\Visual Basic\Templates\Criptografia\obj\Debug\ResolveAssemblyReference.cache
+D:\E\Project\Visual Basic\Templates\Criptografia\obj\Debug\Criptografia.Form1.resources
+D:\E\Project\Visual Basic\Templates\Criptografia\obj\Debug\Criptografia.Resources.resources
+D:\E\Project\Visual Basic\Templates\Criptografia\obj\Debug\Criptografia.vbproj.GenerateResource.Cache
+D:\E\Project\Visual Basic\Templates\Criptografia\obj\Debug\Criptografia.exe
+D:\E\Project\Visual Basic\Templates\Criptografia\obj\Debug\Criptografia.xml
+D:\E\Project\Visual Basic\Templates\Criptografia\obj\Debug\Criptografia.pdb
+D:\Projetos\VB\Templates\Criptografia\obj\Debug\Criptografia.exe
+D:\Projetos\VB\Templates\Criptografia\obj\Debug\Criptografia.xml
+D:\Projetos\VB\Templates\Criptografia\obj\Debug\Criptografia.pdb
+D:\Projetos\VB\Templates\Ativos\Criptografia\obj\Debug\Criptografia.exe
+D:\Projetos\VB\Templates\Ativos\Criptografia\obj\Debug\Criptografia.xml
+D:\Projetos\VB\Templates\Ativos\Criptografia\obj\Debug\Criptografia.pdb
+D:\Projetos\VB\Templates\Ativos\Criptografia\obj\Debug\ResolveAssemblyReference.cache
+D:\Projetos\VB\Templates\Ativos\Criptografia\obj\Debug\Criptografia.CRP.resources
+D:\Projetos\VB\Templates\Ativos\Criptografia\obj\Debug\Criptografia.Resources.resources
+D:\Projetos\VB\Templates\Ativos\Criptografia\obj\Debug\GenerateResource.read.1.tlog
+D:\Projetos\VB\Templates\Ativos\Criptografia\obj\Debug\GenerateResource.write.1.tlog
+D:\Projetos\VB\Templates\Ativos\Criptografia\bin\Debug\Criptografia.exe
+D:\Projetos\VB\Templates\Ativos\Criptografia\bin\Debug\Criptografia.pdb
+D:\Projetos\VB\Templates\Ativos\Criptografia\bin\Debug\Criptografia.xml
